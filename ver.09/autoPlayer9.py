@@ -159,7 +159,7 @@ class WindowClass(QMainWindow, form_class):
 
                         # wait playing video
                         time.sleep(5)
-                        #time.sleep(int(timeline[:2]) * 60 + int(timeline[3:]))
+                        time.sleep(int(timeline[:2]) * 60 + int(timeline[3:]))
                         time.sleep(5)
 
                         # close and change tab
