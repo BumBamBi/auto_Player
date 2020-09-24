@@ -14,17 +14,12 @@ This program used python, pyqt5, and selenium.
 * Must be installed chrome ver.85.0.4183.121 (the latest version in 2020.09.25)
 * File is in "dist" folder(exe)
 
-~ver7 : Have to install selenium
-ver7~ : portable
+Before ver.07 : Have to install selenium
+After ver.07 : portable
 
-ver1 : Dispose due to security issues
-ver2~4 : test
-ver5 : include chrome driver
-ver6 : test
-ver7 : include chrome selenium
+ver.01 : Dispose due to security issues
+ver5 : include chrome_driver
+ver7 : include selenium
 ver8 : slove close one popup
 ver9 : Final for Ubuntu
 ver10 : Final for Windows
-
-
-
