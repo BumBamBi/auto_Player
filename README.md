@@ -3,7 +3,6 @@
 It works on the LMS.
 
 I am attending Incheon National University(INU), 
-
 LMS site is http://cyber.inu.ac.kr/
 
 Therefore, you can use this program if you use the same based LMS.
