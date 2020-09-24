@@ -17,9 +17,9 @@ This program used python, pyqt5, and selenium.
 Before ver.07 : Have to install selenium
 After ver.07 : portable
 
-ver.01 : Dispose due to security issues
-ver5 : include chrome_driver
-ver7 : include selenium
-ver8 : slove close one popup
-ver9 : Final for Ubuntu
-ver10 : Final for Windows
+Ver.01 : Dispose due to security issues
+Ver.05 : Include chrome_driver
+Ver.07 : Include selenium
+Ver.08 : Solve close one popup problem
+Ver.09 : Available Multiple Inputs & UI improvement for Ubuntu
+Ver.10 : Available Multiple Inputs & UI improvement for Windows
