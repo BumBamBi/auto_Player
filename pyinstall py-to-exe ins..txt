@@ -1,0 +1,1 @@
+pyinstaller --onefile --add-binary "chromedriver.exe";"." autoPlayer10.py --hidden-import=selenium
