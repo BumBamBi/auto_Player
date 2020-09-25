@@ -33,6 +33,8 @@ if getattr(sys, 'frozen', False):
 else:
     # Chrome 웹 드라이버 생성
     driver = webdriver.Chrome('./chromedriver')
+
+
 ###############################################
 
 
@@ -220,7 +222,7 @@ class Ui_MainWindow(object):
                             print('open video')
 
                             # change tab
-                            driver.switch_to_window(driver.window_handles[1])
+                            driver.switch_to.window(driver.window_handles[1])
 
                             # play video
                             try:
@@ -238,7 +240,7 @@ class Ui_MainWindow(object):
 
                             # close and change tab
                             driver.close()
-                            driver.switch_to_window(driver.window_handles[0])
+                            driver.switch_to.window(driver.window_handles[0])
                             time.sleep(2)
 
                             # set var
