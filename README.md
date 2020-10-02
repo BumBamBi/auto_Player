@@ -29,7 +29,3 @@ Ver.08 : Solve close one popup problem
 Ver.09 : Available Multiple Inputs & UI improvement for Ubuntu
 
 Ver.10 : Available Multiple Inputs & UI/security improvement  for Windows
-
-
-
-Error  -> already played video can't playing
