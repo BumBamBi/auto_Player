@@ -1,1 +1,7 @@
+cd C:\lkw\python\auto_Player
+
 pyinstaller --onefile --add-binary "chromedriver.exe";"." autoPlayer10.py --hidden-import=selenium
+
+pyinstaller --uac-admin --add-binary "chromedriver.exe";"." autoPlayer_test.py --hidden-import=selenium
+
+pyinstaller --uac-admin --windowed --add-binary "chromedriver.exe";"." autoPlayer_test.py --hidden-import=selenium
