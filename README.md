@@ -32,4 +32,11 @@ Ver.10 : Available Multiple Inputs & UI/security improvement  for Windows
 
 ---
 
+* Download for Chrome driver
 Chrome Driver : https://chromedriver.chromium.org/downloads
+
+* If you want to make .exe file
+pyinstaller --onefile --add-binary "chromedriver.exe";"." autoPlayer10.py --hidden-import=selenium
+pyinstaller --uac-admin --add-binary "chromedriver.exe";"." autoPlayer_test.py --hidden-import=selenium
+pyinstaller --uac-admin --windowed --add-binary "chromedriver.exe";"." autoPlayer_test.py --hidden-import=selenium
+
