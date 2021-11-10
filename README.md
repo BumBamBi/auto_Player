@@ -30,6 +30,9 @@ Ver.09 : Available Multiple Inputs & UI improvement for Ubuntu
 
 Ver.10 : Available Multiple Inputs & UI/security improvement  for Windows
 
+--del--
+
+current ver : ver.10.3
 ---
 # Install
 
