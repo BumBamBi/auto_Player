@@ -1,1 +1,5 @@
+pre_versions/*
+
+ver.10.3/build/*
 ver.10.3/dist/*
+ver.10.3/*.spec

@@ -1,2 +1,0 @@
-Dispose due to security issues
-보안문제로 폐기
