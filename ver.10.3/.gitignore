@@ -1,5 +1,5 @@
 pre_versions/*
 
 build/*
-dist/*
+dist/*/*
 *.spec
