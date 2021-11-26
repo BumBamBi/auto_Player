@@ -41,7 +41,6 @@ current ver : ver.10.3
 conda create -n auto_palyer python=3.8
 conda activate auto_palyer
 
-pip install mediapipe==0.8.2
 pip install selenium
 pip install PyQt5
 pip install time
